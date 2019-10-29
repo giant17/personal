@@ -1,0 +1,89 @@
+# BLOGS
+https://vitalyparnas.com/feeds/all.rss.xml "~BLOG -- Vitaly Parnas"
+https://www.atlanticoquotidiano.it/feed "~BLOG -- Atlantico Quotidiano"
+https://www.magneticmemorymethod.com/blog/rss "~BLOG -- Magnetic Memory Method"
+
+# RELEASES
+https://github.com/gokcehan/lf/releases.atom "~RELEASE -- lf"
+https://github.com/ytdl-org/youtube-dl/releases.atom "~RELEASE -- youtube-dl"
+
+# NEWS
+https://www.qmap.pub/api/rss?lang=en "~NEWS -- Qanon"
+
+# YOUTUBE
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~YOUTUBE -- Luke Smith"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMVTRzCXvIbdK0Y1ZxD-BlA "~YOUTUBE -- Destroying the Illusion"
+https://www.youtube.com/feeds/videos.xml?user=MartinJFaulks "~YOUTUBE -- Martin Faulks"
+https://www.youtube.com/feeds/videos.xml?user=TEDtalksDirector "~YOUTUBE -- TED Talks"
+https://www.youtube.com/feeds/videos.xml?user=TEDxTalks "~YOUTUBE -- TEDx Talks"
+https://www.youtube.com/feeds/videos.xml?user=bulletproofexecutive "~YOUTUBE -- Bulletproof"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "~YOUTUBE -- Wolfgang's Channgel"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqYPhGiB9tkShZorfgcL2lA "~YOUTUBE -- What I've Learned"
+https://www.youtube.com/feeds/videos.xml?user=sanfranciscocrossfit "~YOUTUBE -- Kelly Starrett"
+
+# TWITTER
+https://twitrss.me/twitter_user_to_rss/?user=Jordan_Sather_ "~TWITTER -- Jordan Sather"
+https://twitrss.me/twitter_user_to_rss/?user=g_occhionero   "~TWITTER -- Giulio Occhionero"
+
+# https://forum.artofmemory.com/?_ga=2.218368347.352393339.1572257837-556819088.1572257837;type=rss;action=.xml;limit=20
+# https://forum.artofmemory.com/rss
+# https://www.youtube.com/user/
+
+# PUBMED
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1Z_Vb6O_Iw-Cia5amI6tajJSBMSWg3-UurcypT_nICVawBHQsm "~PUBMED -- MEG Neurofeedback"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1L_cQ9MDBbAHXu0A0M9vlh9lD8jgHIMI0PHYW3Th3frf-wMUr- "~PUBMED -- EEG Neurofeedback"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1VsHRGSo3HX1CjCJ_xRoH8vSlfLvaLUEU6X_4z4J913EEYNQG5 "~PUBMED -- MEG"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=109mLANUC3ANxFT2JG_6txnRTs_7JU8bz30ICj9DergdCY-YGJ "~PUBMED -- Brain Connectivity"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=12Ek7-__ImvHhazwg1bz5Iu5BkoyzruzZ3JPLMf6wmoM2NxkQV "~PUBMED -- Neural Dynamics"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1NQQGxdN6U6QT7zdiaea840k9sm0EzmapGJsqhqumBWImiSk4U "~PUBMED -- MEG Source Reconstruction"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=10AkQ1Iw49RIj3B7zWkWuaoaGEpxVozmSw2214L1inKo7nf98j "~PUBMED -- MEG Top-down attention"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1pmF_x0TvNeK2cnJWJ-aqqiF5rl6OU2BQ2_Hh_Wwev2EVWJQKU "~PUBMED -- SSVEP"
+
+
+# https://www.archlinux.org/feeds/news/ "~Arch Linux" "tech" "news"
+
+# https://www.machinelearningmastery.com/feed/ "~Machine Learning Mastery" "tech"
+# https://www.youtube.com/feeds/videos.xml?user=sentdex "~Sentdex" "tech"
+# https://www.youtube.com/feeds/videos.xml?user=consumerchampion "~Python Programmer" "tech"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCWN3xxRkmTPmbKwht9FuE5A "~Siraj Raval" "tech"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distro Tube" "tech" "videos"
+# https://itsfoss.com/feed "It's FOSS" "tech"
+
+## Politics
+# https://www.theepochtimes.com/c-us/feed/ "~Epoch Times" "pol"
+# https://www.saraacarter.com/feed/ "~Sara Carter" "pol"
+# https://www.youtube.com/feeds/videos.xml?user=MarkDice "~Mark Dice" "pol"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCCsiAKRKcgzA_372WbXNBaw "~Steve Turley" "pol"
+# https://www.youtube.com/feeds/videos.xml?user=Cartanimation "~Freedom Tunes" "pol"
+# https://www.youtube.com/feeds/videos.xml?user=PrisonPlanetLive "~Paul Joseph Watson" "pol"
+# https://www.twitrss.me/mobile_twitter_to_rss/?user=realDonaldTrump "~Donald Trump" "pol"
+# https://www.twitrss.me/mobile_twitter_to_rss/?user=matteosalvinimi "~Matteo Salvini" "pol"
+# https://www.twitrss.me/mobile_twitter_to_rss/?user=prayingmedic "~Prayingmedic" "pol"
+# https://www.twitrss.me/mobile_twitter_to_rss/?user=jsolomonReports "~John Solomon" "pol"
+
+# https://www.grrrgraphics.com/feed "~Grrr Graphics" "pol"
+
+## Truth
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCxC2RlwWGHnwXanvHNBmw2w "~Edge of Wonders" "truth"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCQ7VgW7XgJQjDEPnOR-Q0Qw "~Dustin Nemos" "truth"
+# https://www.twitrss.me/mobile_twitter_to_rss/?user=Jordan_Sather_ "~Jordan Sather" "truth"
+# https://www.exopolitics.org/feed/ "~Exopolitics" "truth"
+
+## Health
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCqYPhGiB9tkShZorfgcL2lA "~What I've Learned" "health"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC70SrI3VkT1MXALRtf0pcHg "~Thomas DeLauer" "health"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC1Aq3T1GmKcObLqo1YIU_Ww "~Bulletproof" "health"
+# http://peterattiadrive.libsyn.com/rss "~Peter Attia" "health"
+# https://rss.art19.com/bulletproof-radio "~Bulletproof Radio" "health"
+
+## Neuroscience
+# https://invidio.us/feed/channel/UCUgZq9PkDp1xaEivtcfJPSg "~Neuroscientifically Challenged" "neuro"
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCUR_LsXk7IYyueSnXcNextQ "~Mike Cohen" "neuro"
+
+# Papers
+# https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=14EXV6AaFU8gtrIBDiX39uYbnF9GgqDcSaXx76T1QxkrhLgYAW "~Neurofeedback" "papers"
+
+## Self-Improvement
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCBIt1VN5j37PVM8LLSuTTlw "~Improvement Pill" "self-improvement"
+
+## Releases
